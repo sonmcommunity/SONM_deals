@@ -1,4 +1,3 @@
 # SONM_deals
 
-
-kk
+Jupyter notebooks to analyze active deals on the SONM platform in real-time.
